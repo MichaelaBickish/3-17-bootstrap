@@ -19,6 +19,17 @@ main {
     flex-grow: 1;
 }
 
+.icon {
+    margin-top: 2.5rem;
+}
+.icon-text {
+    margin-top: 1rem;
+}
+.email-box {
+    max-width: 15rem;
+    align-items: center;
+}
+
 footer {
     height: 10vh;
 }
